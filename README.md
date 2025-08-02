@@ -42,7 +42,7 @@ Example:
 - Touch input zones for paddle movement.
 
 ### Installation
-1. Download the latest [release](../../releases)(https://github.com/NikolasH03/Pong/releases/tag/V1.0.0).
+1. Download the latest [release](https://github.com/NikolasH03/Pong/releases/tag/V1.0.0).
 2. Extract and run the `.exe` (PC) or install the `.apk` (mobile).
 
 ---
